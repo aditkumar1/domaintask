@@ -1,0 +1,10 @@
+Testsuite: domain1task.SubscriptionSpec
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.164 sec
+------------- Standard Output ---------------
+--Output from check Subscription constraints--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from check Subscription constraints--
+------------- ---------------- ---------------
+
+Testcase: check Subscription constraints took 0.153 sec

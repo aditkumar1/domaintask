@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="ttnd-TravelMate-P257-M" name="domain1task.ResourceRatingSpec" skipped="0" tests="1" time="0.239" timestamp="2016-02-16T11:33:23">
+  <properties />
+  <testcase classname="domain1task.ResourceRatingSpec" name="check resource rating constraints" time="0.223" />
+  <system-out><![CDATA[--Output from check resource rating constraints--
+]]></system-out>
+  <system-err><![CDATA[--Output from check resource rating constraints--
+]]></system-err>
+</testsuite>

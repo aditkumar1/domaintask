@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="ttnd-TravelMate-P257-M" name="domain1task.TopicSpec" skipped="0" tests="1" time="0.316" timestamp="2016-02-16T11:33:23">
+  <properties />
+  <testcase classname="domain1task.TopicSpec" name="Check Topic Constraints" time="0.295" />
+  <system-out><![CDATA[--Output from Check Topic Constraints--
+]]></system-out>
+  <system-err><![CDATA[--Output from Check Topic Constraints--
+]]></system-err>
+</testsuite>

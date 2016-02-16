@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="ttnd-TravelMate-P257-M" name="domain1task.DocumentResourceSpec" skipped="0" tests="1" time="0.192" timestamp="2016-02-16T11:33:24">
+  <properties />
+  <testcase classname="domain1task.DocumentResourceSpec" name="check document resource constraints" time="0.18" />
+  <system-out><![CDATA[--Output from check document resource constraints--
+]]></system-out>
+  <system-err><![CDATA[--Output from check document resource constraints--
+]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+Testsuite: domain1task.ResourceRatingSpec
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.239 sec
+------------- Standard Output ---------------
+--Output from check resource rating constraints--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from check resource rating constraints--
+------------- ---------------- ---------------
+
+Testcase: check resource rating constraints took 0.223 sec

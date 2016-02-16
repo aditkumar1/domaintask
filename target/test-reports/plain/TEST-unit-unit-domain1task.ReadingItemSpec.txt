@@ -1,0 +1,10 @@
+Testsuite: domain1task.ReadingItemSpec
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.473 sec
+------------- Standard Output ---------------
+--Output from check read item constraints--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from check read item constraints--
+------------- ---------------- ---------------
+
+Testcase: check read item constraints took 2.384 sec

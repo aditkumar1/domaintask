@@ -1,0 +1,10 @@
+Testsuite: domain1task.TopicSpec
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.316 sec
+------------- Standard Output ---------------
+--Output from Check Topic Constraints--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from Check Topic Constraints--
+------------- ---------------- ---------------
+
+Testcase: Check Topic Constraints took 0.295 sec

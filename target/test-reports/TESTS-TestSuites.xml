@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="ttnd-TravelMate-P257-M" id="0" name="DocumentResourceSpec" package="domain1task" skipped="0" tests="1" time="0.192" timestamp="2016-02-16T11:33:24">
+      <properties />
+
+      <testcase classname="domain1task.DocumentResourceSpec" name="check document resource constraints" time="0.18" />
+
+      <system-out><![CDATA[--Output from check document resource constraints--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from check document resource constraints--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="ttnd-TravelMate-P257-M" id="1" name="LinkResourceSpec" package="domain1task" skipped="0" tests="1" time="0.186" timestamp="2016-02-16T11:33:24">
+      <properties />
+
+      <testcase classname="domain1task.LinkResourceSpec" name="test something" time="0.172" />
+
+      <system-out><![CDATA[--Output from test something--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from test something--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="ttnd-TravelMate-P257-M" id="2" name="ReadingItemSpec" package="domain1task" skipped="0" tests="1" time="2.473" timestamp="2016-02-16T11:33:20">
+      <properties />
+
+      <testcase classname="domain1task.ReadingItemSpec" name="check read item constraints" time="2.384" />
+
+      <system-out><![CDATA[--Output from check read item constraints--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from check read item constraints--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="ttnd-TravelMate-P257-M" id="3" name="ResourceRatingSpec" package="domain1task" skipped="0" tests="1" time="0.239" timestamp="2016-02-16T11:33:23">
+      <properties />
+
+      <testcase classname="domain1task.ResourceRatingSpec" name="check resource rating constraints" time="0.223" />
+
+      <system-out><![CDATA[--Output from check resource rating constraints--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from check resource rating constraints--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="ttnd-TravelMate-P257-M" id="4" name="SubscriptionSpec" package="domain1task" skipped="0" tests="1" time="0.164" timestamp="2016-02-16T11:33:24">
+      <properties />
+
+      <testcase classname="domain1task.SubscriptionSpec" name="check Subscription constraints" time="0.153" />
+
+      <system-out><![CDATA[--Output from check Subscription constraints--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from check Subscription constraints--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="ttnd-TravelMate-P257-M" id="5" name="TopicSpec" package="domain1task" skipped="0" tests="1" time="0.316" timestamp="2016-02-16T11:33:23">
+      <properties />
+
+      <testcase classname="domain1task.TopicSpec" name="Check Topic Constraints" time="0.295" />
+
+      <system-out><![CDATA[--Output from Check Topic Constraints--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from Check Topic Constraints--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="ttnd-TravelMate-P257-M" id="6" name="UserSpec" package="domain1task" skipped="0" tests="1" time="0.142" timestamp="2016-02-16T11:33:24">
+      <properties />
+
+      <testcase classname="domain1task.UserSpec" name="Check User Constraints" time="0.134" />
+
+      <system-out><![CDATA[--Output from Check User Constraints--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from Check User Constraints--
+]]></system-err>
+
+  </testsuite>
+</testsuites>

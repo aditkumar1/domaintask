@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="ttnd-TravelMate-P257-M" name="domain1task.ReadingItemSpec" skipped="0" tests="1" time="2.473" timestamp="2016-02-16T11:33:20">
+  <properties />
+  <testcase classname="domain1task.ReadingItemSpec" name="check read item constraints" time="2.384" />
+  <system-out><![CDATA[--Output from check read item constraints--
+]]></system-out>
+  <system-err><![CDATA[--Output from check read item constraints--
+]]></system-err>
+</testsuite>

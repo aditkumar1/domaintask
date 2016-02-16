@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="ttnd-TravelMate-P257-M" name="domain1task.SubscriptionSpec" skipped="0" tests="1" time="0.164" timestamp="2016-02-16T11:33:24">
+  <properties />
+  <testcase classname="domain1task.SubscriptionSpec" name="check Subscription constraints" time="0.153" />
+  <system-out><![CDATA[--Output from check Subscription constraints--
+]]></system-out>
+  <system-err><![CDATA[--Output from check Subscription constraints--
+]]></system-err>
+</testsuite>

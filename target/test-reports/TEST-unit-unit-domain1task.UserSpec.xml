@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="ttnd-TravelMate-P257-M" name="domain1task.UserSpec" skipped="0" tests="1" time="0.142" timestamp="2016-02-16T11:33:24">
+  <properties />
+  <testcase classname="domain1task.UserSpec" name="Check User Constraints" time="0.134" />
+  <system-out><![CDATA[--Output from Check User Constraints--
+]]></system-out>
+  <system-err><![CDATA[--Output from Check User Constraints--
+]]></system-err>
+</testsuite>
